@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: -15px; padding-bottom: -20px;">
-    <img src="https://user-images.githubusercontent.com/116589040/230763255-39803895-78b3-4273-988e-f6626e5b464d.gif" alt="Coding Girl Animation" width="300" />
+    <img src="https://user-images.githubusercontent.com/116589040/230763255-39803895-78b3-4273-988e-f6626e5b464d.gif" alt="Coding Girl Animation" width="200" />
 </div>
 <h1 align="center">𝘏𝘪 👋, 𝘐'𝘮 𝘕𝘪𝘮𝘯𝘢𝘥𝘪 𝘗𝘦𝘪𝘳𝘪𝘴</h1>
 <h3 align="center">𝘈𝘴𝘴𝘰𝘤𝘪𝘢𝘵𝘦 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘧𝘳𝘰𝘮 𝘚𝘳𝘪 𝘓𝘢𝘯𝘬𝘢</h3>
