@@ -4,7 +4,7 @@
 <h1 align="center">𝘏𝘪 👋, 𝘐'𝘮 𝘕𝘪𝘮𝘯𝘢𝘥𝘪 𝘗𝘦𝘪𝘳𝘪𝘴</h1>
 <h3 align="center">𝘈𝘴𝘴𝘰𝘤𝘪𝘢𝘵𝘦 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘧𝘳𝘰𝘮 𝘚𝘳𝘪 𝘓𝘢𝘯𝘬𝘢</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimnadi99&label=Profile%20views&color=0e75b6&style=flat" alt="nimnadi99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nimnadi99&label=Profile%20views&color=0e75b6&style=flat" alt="nimnadi99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimnadi99" alt="nimnadi99" /></a> </p>
 
