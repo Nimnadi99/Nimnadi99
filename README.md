@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Tumiegh/resources/blob/main/coding-girl.gif" alt="Coding Girl Animation" style="width: 300px; height: auto;">
+</p>
 <h1 align="center">𝘏𝘪 👋, 𝘐'𝘮 𝘕𝘪𝘮𝘯𝘢𝘥𝘪 𝘗𝘦𝘪𝘳𝘪𝘴</h1>
 <h3 align="center">𝘈𝘴𝘴𝘰𝘤𝘪𝘢𝘵𝘦 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘧𝘳𝘰𝘮 𝘚𝘳𝘪 𝘓𝘢𝘯𝘬𝘢</h3>
 
